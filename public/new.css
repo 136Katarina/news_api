@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+}
+
+#container{
+  height: 150px;
+  background-image: url('https://i.ytimg.com/vi/5Zbir41IsSg/maxresdefault.jpg');
+  background-size: cover;
+}
+
+
+
+#weather{
+  width: 100%;
+  height: 70px;
+  background-color: #AEEEFD  ;
+  margin-top: 5px;
+  /* margin-bottom: 5px; */
+}
+
+
+#weather_ul li{
+  margin-left: 15px;
+  float: left;
+}
+
+/*
+#topbar {
+  background-color:#6888AC;
+  width: 100%;
+  height: 30px;
+  margin-top: 0;
+} */
+
+
+
+h1{
+  margin-top: 0px;
+  color: grey;
+  font-size: 20px;
+  margin-left: 10px;
+  font-family: 'Pacifico', cursive;
+}
+
+
+#articles{
+  width: 500px;
+  height: auto;
+  float: left;
+  border-right: 2px solid darkgrey;
+  margin-top: 40px;
+
+}
+
+h4{
+  margin-left: 10px;
+  color: grey;
+}
+
+
+
+#news-list li {
+  margin-bottom: 70px;
+
+}
+
+
+
+#next {
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+  margin-left: 50px;
+  background-color: red;
+  margin-right: 10px;
+  color: white;
+}
+
+#alj {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: orange;
+  color: white;
+}
